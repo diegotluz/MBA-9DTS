@@ -6,3 +6,7 @@ https://pep8.org/
 
 # JINJA 
 https://jinja.palletsprojects.com
+
+
+# LIVROS
+https://github.com/slalit360/Data-Science-ML-Cheat-Sheet-Books-Oreilly-/tree/master/O-Reilly%20Books
